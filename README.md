@@ -1,4 +1,4 @@
-# Feed-The-Beast Pyramid Reborn (Modded Minecraft 1.12) in Docker
+# Feed-The-Beast Pyramid Reborn (Modded Minecraft Map 1.12) in Docker
 To pull the image:
 ```
 docker pull audiohacked/ftb_pyramid_reborn:stable
