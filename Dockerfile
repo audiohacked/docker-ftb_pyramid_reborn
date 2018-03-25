@@ -3,7 +3,7 @@ FROM openjdk:8-jre-alpine
 MAINTAINER Sean Nelson <audiohacked@gmail.com>
 
 ENV BASE_URL="http://ftb.cursecdn.com/FTB2/modpacks/FTBPyramidReborn" \
-    FTB_VERSION="2_0_1" \
+    FTB_VERSION="2_1_0" \
     SERVER_FILE="FTBPyramidRebornServer.zip" \
     SERVER_PORT=25565
 
